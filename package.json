@@ -1,0 +1,25 @@
+{
+  "name": "accessibility-tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonys1760/Accessibility-Tester.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonys1760/Accessibility-Tester/issues"
+  },
+  "homepage": "https://github.com/anthonys1760/Accessibility-Tester#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "pa11y": "^6.1.1"
+  }
+}
